@@ -1,2 +1,1 @@
-*Zero* _day_
-**Zero** __day__
+Repository for Holberton Zero Day projects
